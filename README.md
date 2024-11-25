@@ -1,10 +1,3 @@
-### <div align="left">
-  <a href="https://github.com/devrequest09">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=false&vCenter=true&width=435" alt="Typing SVG" />
-  </a>
-</div>
-
-
 <div align="left">
   <a href="https://github.com/Mlook70">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=false&vCenter=true&width=690&lines=Professional+Full+Stack+Software+Engineer" alt="Typing SVG" />
