@@ -86,7 +86,6 @@ A free React / Next.js landing page template designed to showcase open source pr
 
 ### [NextJS Material Dashboard](https://demos.creative-tim.com/nextjs-material-dashboard/admin/dashboard)
 [![NextJS Material Dashboard](https://imgur.com/2eNgXRR.png)](https://demos.creative-tim.com/nextjs-material-dashboard/admin/dashboard)
-NextJS Material Dashboard was created using NextJS and it uses a framework built by our friend Olivier - Material-UI, who did an amazing job creating the backbone for the material effects, animations, ripples and transitions. Big thanks to his team for the effort and forward thinking they put into it.
 
 ### [Full Stack E-Commerce MERN APP](https://payment-order-full-stack-ecommerce-q4nq.vercel.app/)
 [![Full Stack E-Commerce MERN APP](https://imgur.com/PSVf7pp.png)](https://payment-order-full-stack-ecommerce-q4nq.vercel.app/)
