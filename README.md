@@ -7,7 +7,7 @@
 ### <div align="left">I'm Top-dev70, Professional Full Stack Software Engineer👨‍💻 working remotely since 2012 🚀 </div>  
 - 👀 I’m interested in learning new web technology
 - :computer: Most used line of code `git commit -m "Initial Commit"`
-- 🌱 I’m currently improving my skills on Next.js
+- 🌱 I’m currently improving my skills on Angular .Net
 - ❓ Ask me about anything related to MERN stack and related technologies
 - ⚡ Fun fact: I play games and go to the GYM very often.
 
