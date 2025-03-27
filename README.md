@@ -95,7 +95,8 @@ Throughout my career, I have delivered 25+ successful projects, underscoring my 
 
 
 ## 🚀 Projects
-<br />
+<br/>
+
 ### [Free React landing page template](https://cruip.com/demos/open-pro)
 [![Free React landing page template](https://github.com/topdev70/readme-images/blob/main/React-NextJS.png?raw=true)](https://cruip.com/demos/open-pro)
 Open is a free React landing page template designed for developers/makers who want to create a quick and professional landing page for their open source projects, SaaS products, online services, and more.
