@@ -1,15 +1,10 @@
 <div align="left">
   <a href="https://github.com/topdev70">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=false&vCenter=true&width=690&lines=Professional+Full+Stack+Software+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=false&vCenter=true&width=690&lines=Senior+Full+Stack+Developer+with+12++years+of+experience" alt="Typing SVG" />
   </a>
-</div>  
+</div> 
 
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
-
-## **<div align="center">Senior Full Stack Developer with 12+ years of experience</div>**  
+## **<div align="center"></div>**  
   
 
 As a Senior Full Stack Developer with 12+ years of experience. I have expertise in JavaScript and TypeScript frameworks, especially React, Angular, Vue.js, and Next.js for the frontend, Node.js, Express, Python, C#, and Java for the backend. With over a decade of experience in full-stack development, I specialize in building applications that solve complex business problems while delivering an exceptional user experience.
