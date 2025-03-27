@@ -99,15 +99,15 @@ Throughout my career, I have delivered 25+ successful projects, underscoring my 
 <br/>
 
 ### [React / Next.js](https://cruip.com/demos/open-pro)
-[![React / Next.js](https://github.com/topdev70/React-NextJS.png)](https://cruip.com/demos/open-pro)
+[![React / Next.js](https://github.com/topdev70/topdev70/React-NextJS.png)](https://cruip.com/demos/open-pro)
 A free React / Next.js landing page template designed to showcase open source projects, SaaS products, online services, and more.
 
 ### [NextJS Material Dashboard](https://demos.creative-tim.com/nextjs-material-dashboard/admin/dashboard)
-[![NextJS Material Dashboard](https://github.com/topdev70/NextJS-Material-UI.png)](https://demos.creative-tim.com/nextjs-material-dashboard/admin/dashboard)
+[![NextJS Material Dashboard](https://github.com/topdev70/topdev70/NextJS-Material-UI.png)](https://demos.creative-tim.com/nextjs-material-dashboard/admin/dashboard)
 NextJS Material Dashboard is a free Material-UI, NextJS and React Admin with a fresh, new design inspired by Google's Material Design. We are very excited to introduce our take on the material concepts through an easy to use and beautiful set of components. NextJS Material Dashboard was built over the popular Material-UI, NextJS and React frameworks.
 
 ### [Full Stack E-Commerce MERN APP](https://payment-order-full-stack-ecommerce-q4nq.vercel.app/)
-[![Full Stack E-Commerce MERN APP](https://github.com/topdev70/MERN-ECommerce.png)](https://payment-order-full-stack-ecommerce-q4nq.vercel.app/)
+[![Full Stack E-Commerce MERN APP](https://github.com/topdev70/topdev70/MERN-ECommerce.png)](https://payment-order-full-stack-ecommerce-q4nq.vercel.app/)
 This Full-Stack E-Commerce MERN APP is a comprehensive web application built using the MERN stack: MongoDB, Express.js, React, and Node.js. It provides a seamless shopping experience with robust features and responsive design.
 
 ---
