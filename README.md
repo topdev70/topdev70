@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
   <a href="https://github.com/topdev70">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=false&vCenter=true&width=690&lines=Senior+Full+Stack+Developer+with+12+years" alt="Typing SVG" />
   </a>
