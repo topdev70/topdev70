@@ -103,7 +103,7 @@ Throughout my career, I have delivered 25+ successful projects, underscoring my 
 A free React / Next.js landing page template designed to showcase open source projects, SaaS products, online services, and more.
 
 ### [NextJS Material Dashboard](https://demos.creative-tim.com/nextjs-material-dashboard/admin/dashboard)
-[![NextJS Material Dashboard](https://github.com/topdev70/readme-images/NextJS-Material-UI.png)](https://demos.creative-tim.com/nextjs-material-dashboard/admin/dashboard)
+[![NextJS Material Dashboard](https://github.com/topdev70/readme-images/NextJS-MaterialUI.jpg)](https://demos.creative-tim.com/nextjs-material-dashboard/admin/dashboard)
 NextJS Material Dashboard is a free Material-UI, NextJS and React Admin with a fresh, new design inspired by Google's Material Design. We are very excited to introduce our take on the material concepts through an easy to use and beautiful set of components. NextJS Material Dashboard was built over the popular Material-UI, NextJS and React frameworks.
 
 ### [Full Stack E-Commerce MERN APP](https://payment-order-full-stack-ecommerce-q4nq.vercel.app/)
