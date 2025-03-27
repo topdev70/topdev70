@@ -99,7 +99,7 @@ Throughout my career, I have delivered 25+ successful projects, underscoring my 
 <br/>
 
 ### [React / Next.js](https://cruip.com/demos/open-pro)
-[![React / Next.js](https://github.com/topdev70/readme-images/React-NextJS.png)](https://cruip.com/demos/open-pro)
+[![React / Next.js](https://raw.githubusercontent.com/topdev70/readme-images/main/React-NextJS.png)](https://cruip.com/demos/open-pro)
 A free React / Next.js landing page template designed to showcase open source projects, SaaS products, online services, and more.
 
 ### [NextJS Material Dashboard](https://demos.creative-tim.com/nextjs-material-dashboard/admin/dashboard)
