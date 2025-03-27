@@ -9,8 +9,6 @@ As a Senior Full Stack Developer with 12+ years of experience. I have expertise 
 
 Skilled in designing responsive, accessible UIs using Bootstrap, Material UI, Tailwind CSS, SASS/SCSS, and Storybook, driving user engagement and satisfaction. I am adept at optimizing performance, reducing bundle sizes. Experienced in an agile development, using Jira and Confluence for streamlined project management and team collaboration. I’ve led efforts to implement CI/CD pipelines on AWS, which have significantly reduced deployment times and improved system uptime.
 
-With a strong foundation in JavaScript and TypeScript, I’ve consistently applied Test-Driven Development (TDD), Object-Oriented Programming (OOP), and Behavior-Driven Development (BDD) to deliver clean, maintainable code. Across 15+ projects, these approaches have led to a 40% reduction in bug density, and a 95% average user satisfaction rating.
-
 Throughout my career, I have delivered 25+ successful projects, underscoring my proficiency in both frontend and backend development. And I am committed to staying abreast of industry trends and continuously enhancing my skills.  
   
 
@@ -106,14 +104,12 @@ A free React / Next.js landing page template designed to showcase open source pr
 
 ### [NextJS Material Dashboard](https://demos.creative-tim.com/nextjs-material-dashboard/admin/dashboard)
 [![NextJS Material Dashboard](https://imgur.com/2eNgXRR.png)](https://demos.creative-tim.com/nextjs-material-dashboard/admin/dashboard)
+NextJS Material Dashboard is a free Material-UI, NextJS and React Admin with a fresh, new design inspired by Google's Material Design. We are very excited to introduce our take on the material concepts through an easy to use and beautiful set of components. NextJS Material Dashboard was built over the popular Material-UI, NextJS and React frameworks.
 
 ### [Full Stack E-Commerce MERN APP](https://payment-order-full-stack-ecommerce-q4nq.vercel.app/)
 [![Full Stack E-Commerce MERN APP](https://imgur.com/PSVf7pp.png)](https://payment-order-full-stack-ecommerce-q4nq.vercel.app/)
-Welcome to E-Commerce built in with MERN APP.
+This Full-Stack E-Commerce MERN APP is a comprehensive web application built using the MERN stack: MongoDB, Express.js, React, and Node.js. It provides a seamless shopping experience with robust features and responsive design.
 
-### [React-Material-UI-components](https://demos.creative-tim.com/nextjs-material-dashboard/admin/dashboard)
-[![NextJS Material Dashboard](https://imgur.com/o3l9CiN.png)](https://demos.creative-tim.com/nextjs-material-dashboard/admin/dashboard)
-Minimal Dashboard - build with React Material UI components.
 ---
 
 </div>  
