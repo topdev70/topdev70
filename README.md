@@ -5,12 +5,21 @@
 </div> 
   
 
-As a Senior Full Stack Developer with 12+ years of experience. I have expertise in JavaScript and TypeScript frameworks, especially React, Angular, Vue.js, and Next.js for the frontend, Node.js, Express, Python, C#, and Java for the backend. With over a decade of experience in full-stack development, I specialize in building applications that solve complex business problems while delivering an exceptional user experience.
+👋 Hi there! I’m a Senior Full Stack Developer with over 12 years of experience in web development.
 
-Skilled in designing responsive, accessible UIs using Bootstrap, Material UI, Tailwind CSS, SASS/SCSS, and Storybook, driving user engagement and satisfaction. I am adept at optimizing performance, reducing bundle sizes. Experienced in an agile development, using Jira and Confluence for streamlined project management and team collaboration. I’ve led efforts to implement CI/CD pipelines on AWS, which have significantly reduced deployment times and improved system uptime.
+💼 I specialize in:
+	•	Frontend: React, Angular, Vue, Next.js, Redux, RxJS, NgRx, NuxtJS, BootStrap, Material UI, Tailwind CSS, SASS/SCSS
+	•	Backend: Node.js, Express.js, Python, C#/.NET, Java (Spring Boot), Flask
+	•	Databases: MongoDB, PostgreSQL, MySQL, Firebase
+	•	DevOps: AWS, Azure, GCP, Docker, CI/CD
 
-Throughout my career, I have delivered 25+ successful projects, underscoring my proficiency in both frontend and backend development. And I am committed to staying abreast of industry trends and continuously enhancing my skills.  
-  
+🚀 I love building clean, maintainable code and solving complex problems—from user-friendly UI design to robust backend architecture.
+
+🛠️ Currently working on:
+	•	AI integration into business workflows
+	•	Optimizing performance in real-time web apps
+
+📫 Let’s connect! I’m always open to interesting collaborations or freelance opportunities.
 
 <br/>  
 
