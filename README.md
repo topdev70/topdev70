@@ -98,9 +98,9 @@ Throughout my career, I have delivered 25+ successful projects, underscoring my 
 <br />
 <br/>
 
-### [React / Next.js](https://cruip.com/demos/open-pro)
-[![React / Next.js](https://github.com/topdev70/readme-images/blob/main/React-NextJS.png?raw=true)](https://cruip.com/demos/open-pro)
-A free React / Next.js landing page template designed to showcase open source projects, SaaS products, online services, and more.
+### [Free React landing page template](https://cruip.com/demos/open-pro)
+[![Free React landing page template](https://github.com/topdev70/readme-images/blob/main/React-NextJS.png?raw=true)](https://cruip.com/demos/open-pro)
+Open is a free React landing page template designed for developers/makers who want to create a quick and professional landing page for their open source projects, SaaS products, online services, and more.
 
 ### [NextJS Material Dashboard](https://demos.creative-tim.com/nextjs-material-dashboard/admin/dashboard)
 [![NextJS Material Dashboard](https://github.com/topdev70/readme-images/blob/main/NextJS-MaterialUI.jpg?raw=true)](https://demos.creative-tim.com/nextjs-material-dashboard/admin/dashboard)
