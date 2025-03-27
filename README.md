@@ -1,11 +1,15 @@
 <div align="center">
   <a href="https://github.com/topdev70">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=false&vCenter=true&width=690&lines=Senior+Full+Stack+Developer+with+12+years" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=false&vCenter=true&width=690&lines=Senior+Full+Stack+Developer" alt="Typing SVG" />
   </a>
 </div> 
   
 
 As a Senior Full Stack Developer with 12+ years of experience. I have expertise in JavaScript and TypeScript frameworks, especially React, Angular, Vue.js, and Next.js for the frontend, Node.js, Express, Python, C#, and Java for the backend. With over a decade of experience in full-stack development, I specialize in building applications that solve complex business problems while delivering an exceptional user experience.
+
+Skilled in designing responsive, accessible UIs using Bootstrap, Material UI, Tailwind CSS, SASS/SCSS, and Storybook, driving user engagement and satisfaction. I am adept at optimizing performance, reducing bundle sizes. Experienced in an agile development, using Jira and Confluence for streamlined project management and team collaboration. I’ve led efforts to implement CI/CD pipelines on AWS, which have significantly reduced deployment times and improved system uptime.
+
+With a strong foundation in JavaScript and TypeScript, I’ve consistently applied Test-Driven Development (TDD), Object-Oriented Programming (OOP), and Behavior-Driven Development (BDD) to deliver clean, maintainable code. Across 15+ projects, these approaches have led to a 40% reduction in bug density, and a 95% average user satisfaction rating.
 
 Throughout my career, I have delivered 25+ successful projects, underscoring my proficiency in both frontend and backend development. And I am committed to staying abreast of industry trends and continuously enhancing my skills.  
   
@@ -92,13 +96,12 @@ Throughout my career, I have delivered 25+ successful projects, underscoring my 
 <br/>  
 
 
-## Projects
-<br />
-<br/>  
 ## 🚀 Projects
+<br />
+<br/>
 
-### [React / Next.js](https://cruip.com/)
-[![React / Next.js](https://imgur.com/uTyMTHK.png)](https://cruip.com/)
+### [React / Next.js](https://cruip.com/demos/open-pro)
+[![React / Next.js](https://imgur.com/uTyMTHK.png)](https://cruip.com/demos/open-pro)
 A free React / Next.js landing page template designed to showcase open source projects, SaaS products, online services, and more.
 
 ### [NextJS Material Dashboard](https://demos.creative-tim.com/nextjs-material-dashboard/admin/dashboard)
