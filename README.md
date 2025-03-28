@@ -6,18 +6,18 @@
   
 
 👋 Hi there! I’m a Senior Full Stack Developer with over 12 years of experience in web development.
-
-💼 I specialize in:
-	•	Frontend: React, Angular, Vue, Next.js, Redux, RxJS, NgRx, NuxtJS, BootStrap, Material UI, Tailwind CSS, SASS/SCSS
-	•	Backend: Node.js, Express.js, Python, C#/.NET, Java (Spring Boot), Flask
-	•	Databases: MongoDB, PostgreSQL, MySQL, Firebase
-	•	DevOps: AWS, Azure, GCP, Docker, CI/CD
+<br/>
+💼 I specialize in: <br/>
+	•	Frontend: React, Angular, Vue, Next.js, Redux, RxJS, NgRx, NuxtJS, BootStrap, Material UI, Tailwind CSS, SASS/SCSS<br/>
+	•	Backend: Node.js, Express.js, Python, C#/.NET, Java (Spring Boot), Flask<br/>
+	•	Databases: MongoDB, PostgreSQL, MySQL, Firebase<br/>
+	•	DevOps: AWS, Azure, GCP, Docker, CI/CD<br/>
 
 🚀 I love building clean, maintainable code and solving complex problems—from user-friendly UI design to robust backend architecture.
 
-🛠️ Currently working on:
-	•	AI integration into business workflows
-	•	Optimizing performance in real-time web apps
+🛠️ Currently working on:<br/>
+	•	AI integration into business workflows<br/>
+	•	Optimizing performance in real-time web apps<br/>
 
 📫 Let’s connect! I’m always open to interesting collaborations or freelance opportunities.
 
