@@ -9,6 +9,7 @@
 
 💼 I specialize in:
 <br/>
+<br/>
 	•	Frontend: React, Angular, Vue, Next.js, Redux, RxJS, NgRx, NuxtJS, BootStrap, Material UI, Tailwind CSS, SASS/SCSS<br/>
 	•	Backend: Node.js, Express.js, Python, C#/.NET, Java (Spring Boot), Flask<br/>
 	•	Databases: MongoDB, PostgreSQL, MySQL, Firebase<br/>
