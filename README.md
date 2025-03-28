@@ -6,7 +6,7 @@
   
 
 👋 Hi there! I’m a Senior Full Stack Developer with over 12 years of experience in web development.
-<br/>
+
 💼 I specialize in: <br/>
 	•	Frontend: React, Angular, Vue, Next.js, Redux, RxJS, NgRx, NuxtJS, BootStrap, Material UI, Tailwind CSS, SASS/SCSS<br/>
 	•	Backend: Node.js, Express.js, Python, C#/.NET, Java (Spring Boot), Flask<br/>
